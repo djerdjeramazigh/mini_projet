@@ -1,0 +1,5 @@
+D:\source\repos\ApiRest\ApiRest\obj\Debug\net6.0\ApiRest.csproj.AssemblyReference.cache
+D:\source\repos\ApiRest\ApiRest\obj\Debug\net6.0\ApiRest.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\ApiRest\ApiRest\obj\Debug\net6.0\ApiRest.AssemblyInfoInputs.cache
+D:\source\repos\ApiRest\ApiRest\obj\Debug\net6.0\ApiRest.AssemblyInfo.cs
+D:\source\repos\ApiRest\ApiRest\obj\Debug\net6.0\ApiRest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestVehicle", "ApiRestVehicle\ApiRestVehicle.csproj", "{545F0E4B-EA2A-4E1D-B7D2-E0798BF85790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi2", "TodoApi2\TodoApi2.csproj", "{648E314D-3D2A-42A4-A9F7-09BA39BBBF4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545F0E4B-EA2A-4E1D-B7D2-E0798BF85790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545F0E4B-EA2A-4E1D-B7D2-E0798BF85790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545F0E4B-EA2A-4E1D-B7D2-E0798BF85790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545F0E4B-EA2A-4E1D-B7D2-E0798BF85790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{648E314D-3D2A-42A4-A9F7-09BA39BBBF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648E314D-3D2A-42A4-A9F7-09BA39BBBF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648E314D-3D2A-42A4-A9F7-09BA39BBBF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648E314D-3D2A-42A4-A9F7-09BA39BBBF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE8AB44-9FFD-460E-B144-D3F819AEFF7C}
+	EndGlobalSection
+EndGlobal

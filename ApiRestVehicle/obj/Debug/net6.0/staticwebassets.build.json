@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pjnla5fqg6aHA1uX584AMLKR0OCaHyQqA8+id2tkpeE=",
+  "Source": "ApiRestVehicle",
+  "BasePath": "_content/ApiRestVehicle",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
