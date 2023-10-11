@@ -1,0 +1,14 @@
+D:\source\repos\ExtractQueries\ExtractQueries\bin\Debug\net6.0\ExtractQueries.exe
+D:\source\repos\ExtractQueries\ExtractQueries\bin\Debug\net6.0\ExtractQueries.deps.json
+D:\source\repos\ExtractQueries\ExtractQueries\bin\Debug\net6.0\ExtractQueries.runtimeconfig.json
+D:\source\repos\ExtractQueries\ExtractQueries\bin\Debug\net6.0\ExtractQueries.dll
+D:\source\repos\ExtractQueries\ExtractQueries\bin\Debug\net6.0\ExtractQueries.pdb
+D:\source\repos\ExtractQueries\ExtractQueries\obj\Debug\net6.0\ExtractQueries.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\ExtractQueries\ExtractQueries\obj\Debug\net6.0\ExtractQueries.AssemblyInfoInputs.cache
+D:\source\repos\ExtractQueries\ExtractQueries\obj\Debug\net6.0\ExtractQueries.AssemblyInfo.cs
+D:\source\repos\ExtractQueries\ExtractQueries\obj\Debug\net6.0\ExtractQueries.csproj.CoreCompileInputs.cache
+D:\source\repos\ExtractQueries\ExtractQueries\obj\Debug\net6.0\ExtractQueries.dll
+D:\source\repos\ExtractQueries\ExtractQueries\obj\Debug\net6.0\refint\ExtractQueries.dll
+D:\source\repos\ExtractQueries\ExtractQueries\obj\Debug\net6.0\ExtractQueries.pdb
+D:\source\repos\ExtractQueries\ExtractQueries\obj\Debug\net6.0\ExtractQueries.genruntimeconfig.cache
+D:\source\repos\ExtractQueries\ExtractQueries\obj\Debug\net6.0\ref\ExtractQueries.dll

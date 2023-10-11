@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "SQL Query Results";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table border="1">
+    <thead>
+        <tr>
+            @foreach (var column in Model.Columns)
+            {
+                <th>@column</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in Model.Rows)
+        {
+            <tr>
+                @foreach (var cell in row)
+                {
+                    <td>@cell</td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+

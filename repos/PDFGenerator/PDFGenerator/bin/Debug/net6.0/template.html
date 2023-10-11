@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vehicle Report</title>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+</style>
+</head>
+<body>
+<h1>Vehicle Incident Report</h1>
+<p>Vehicle Description: [SQL: SELECT vehicule_desc FROM vehicule WHERE vehicule_id = ?]</p>
+
+ 
+
+    <h2>Incident Details</h2>
+<table>
+<thead>
+<tr>
+<th>Incident ID</th>
+<th>Description</th>
+<th>Order</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<!-- [SQL: SELECT * FROM incident WHERE ordre = ?] -->
+<!-- [LOOP: Each Row] -->
+<tr>
+<td>[SQL: incident_id]</td>
+<td>[SQL: incident_desc]</td>
+<td>[SQL: ordre]</td>
+<td>[SQL: etat]</td>
+</tr>
+<!-- [END LOOP] -->
+</tbody>
+</table>
+</body>
+</html>
